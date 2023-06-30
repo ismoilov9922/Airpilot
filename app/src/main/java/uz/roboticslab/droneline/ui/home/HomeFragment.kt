@@ -37,6 +37,7 @@ class HomeFragment : Fragment() {
         binding.drawerMenu.setOnClickListener {
             binding.mainDrawerLayout.openDrawer(Gravity.LEFT)
         }
+        //hjhjhh
         val scaleAnimate = ScaleInAnimationAdapter(
             AdapterOne(
                 LoadList.getListOne(),
