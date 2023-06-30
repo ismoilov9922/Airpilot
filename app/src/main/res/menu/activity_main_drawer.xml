@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drone_stores"
+            android:icon="@drawable/ic_shop"
+            android:title="@string/drone_shop" />
+        <item
+            android:id="@+id/drone_website"
+            android:icon="@drawable/www"
+            android:title="@string/drone_website" />
+        <item
+            android:id="@+id/language"
+            android:icon="@drawable/ic_language"
+            android:title="@string/language" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/ic_drone_news"
+            android:title="@string/news" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_group"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/phone"
+            android:icon="@drawable/ic_phone"
+            android:title="@string/phone" />
+    </group>
+</menu>

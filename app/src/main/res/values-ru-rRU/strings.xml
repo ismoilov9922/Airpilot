@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Airpilot</string>
+    <string name="game_view_content_description" translatable="false">Game view</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Настройки</string>
+    <string name="language">Язык программирования</string>
+    <string name="news">Новости программного</string>
+    <string name="about">О команде</string>
+    <string name="phone">+998953401070</string>
+    <string name="virtual_drone">Виртуальный дрон</string>
+    <string name="virtual_real">Виртуальный реальный</string>
+    <string name="real_drone">Pеальный дрон</string>
+    <string name="must_insturments">Необходимые инструменты</string>
+    <string name="drone_create">Изготовление дронов</string>
+    <string name="launches">Запуски</string>
+    <string name="rocket_model">Модель ракеты</string>
+    <string name="make_drone">Узнайте, как сделать дрон</string>
+    <string name="mility_drone">Гонка дронов</string>
+    <string name="instruments">Необходимые настройки</string>
+    <string name="drone_creat_learn">Изготовление дронов</string>
+    <string name="ligth_theme">Дневной режим</string>
+    <string name="about_app">О программе</string>
+    <string name="about_our">насчет нас</string>
+    <string name="version_1_0_0">Version: 1.0.0</string>
+    <string name="company_uz_creater">Company: Robotics Lab</string>
+    <string name="developer_email">Mail: roboticslab@gmail.com</string>
+    <string name="phone_number">Phone: +998 95 340 10 70</string>
+    <string name="app_news">Новости программного</string>
+    <string name="instrument_need">Необходимые настройки</string>
+    <string name="select_lang">Выберите язык</string>
+    <string name="text_news">Ожидаемые изменения в следующей версии</string>
+    <string name="learn_fly">Обучение летать</string>
+    <string name="avia_model">Авиа Модель</string>
+    <string name="raketa_model">Модель ракеты</string>
+    <string name="harbiy_model">Военная модель</string>
+    <string name="avia_models">Авиа Модели</string>
+    <string name="drone_shop">Магазины дронов</string>
+    <string name="drone_website">Сайты дронов</string>
+    <string name="drone_stores">Магазины дронов</string>
+    <string name="web_1">Наша миссия — помочь вам стать умным и безопасным пилотом дрона.</string>
+    <string name="web_2">ArduPilot — это система автопилота с открытым исходным кодом, поддерживающая мультикоптеры, традиционные вертолеты, самолеты с неподвижным крылом и вездеходы.</string>
+    <string name="web_3">Меня зовут Гульзар, и я одержим FPV-полетами. Я уже довольно давно увлекаюсь квадрокоптерами и FPV, живу, ем и сплю.</string>
+    <string name="web_4">Вы познакомитесь с механикой полета и проектированием квадрокоптерных летающих роботов и сможете разрабатывать динамические модели, получать элементы управления и синтезировать планировщики для работы в трехмерных средах.</string>
+    <string name="web_5">Мы предоставляем возможность таким производителям, как вы, делиться своими проектами, сотрудничать друг с другом и узнавать, как вывести свой продукт на рынок.</string>
+    <string name="web_6">Мы любим летать, мы любим дроны.. . Это социальная сеть для дронов, радиоуправляемых моделей, роботов и многого другого.</string>
+    <string name="web_7">Начиная с 2010 года ряд технологических и инженерных факторов сошлись воедино, что привело к почти неограниченным возможностям по стоимости и более функциональным летательным аппаратам для потребителей, любителей, фотографов и других возможных легких коммерческих целей.</string>
+    <string name="stories_1">Являясь лидером на рынке простых в управлении дронов и систем аэрофотосъемки, квадрокоптеры DJI стали стандартом потребительских беспилотных летательных аппаратов.</string>
+    <string name="stories_2">Parrot проектирует, разрабатывает и продает потребительские товары для смартфонов и планшетов, а также высокотехнологичные решения в области автомобилестроения и беспилотных летательных аппаратов.</string>
+    <string name="stories_3">RcBazaar - крупнейший и самый крутой в Индии супермагазин для хобби, посвященный радиоуправляемым вертолетам, самолетам, реактивным самолетам, планерам, комплектам из бальзы, запчастям и аксессуарам.</string>
+    <string name="stories_4">RC Mumbai — это магазин хобби следующего уровня в Мумбаи, который предлагает товары высочайшего качества по самой низкой цене.</string>
+    <string name="stories_5">HobbyXyz.com — это радиоуправляемый магазин в Дели, который продает все товары для хобби, такие как самолеты для хобби, лодки, поезда и многое другое.</string>
+    <string name="stories_6">Robokits India — это быстрорастущая компания, занимающаяся исследованиями, разработками и сборкой, с собственной онлайн-кассой, магазином и сетью продаж роботизированной продукции.</string>
+    <string name="stories_7">Pooja Electronics была основана еще в 1998 году, в основном занимаясь вещательным оборудованием.</string>
+    <string name="select_lang_btn">Выбрать язык</string>
+    <string name="jamoa_haqida">О команде</string>
+    <string name="manager">Руководитель проекта</string>
+    <string name="android_dasturchi">Android Pазработчик</string>
+
+</resources>

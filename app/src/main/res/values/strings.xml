@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Airpilot </string>
+    <string name="game_view_content_description" translatable="false">Game view</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="language">Dastur tili</string>
+    <string name="news">Dastur yangiliklari</string>
+    <string name="about">Jamoa haqida</string>
+    <string name="phone">+998953401070</string>
+    <string name="virtual_drone">Virtual drone</string>
+    <string name="virtual_real">Virtual real</string>
+    <string name="real_drone">Real drone</string>
+    <string name="must_insturments">Kerakli qurulmalar</string>
+    <string name="drone_create">Airpilot yasash</string>
+    <string name="launches">Uchirish maydonchalari</string>
+    <string name="rocket_model">Raketa Model</string>
+    <string name="mility_drone">Airpilot resing musobaqasi</string>
+    <string name="make_drone">Airpilot yasashni o\'rganish</string>
+    <string name="instruments">Kerakli qurulmalar</string>
+    <string name="drone_creat_learn">Airpilot yasash</string>
+    <string name="ligth_theme">Kunduzgi rejim</string>
+    <string name="about_app">Dastur haqida</string>
+    <string name="about_our">Biz haqimizda</string>
+    <string name="version_1_0_0">Version: 1.0.0</string>
+    <string name="company_uz_creater">Company: Robotics Lab</string>
+    <string name="developer_email">Mail: roboticslab@gmail.com</string>
+    <string name="phone_number">Phone: +998 95 340 10 70</string>
+    <string name="app_news">Dastur yangiliklari</string>
+    <string name="instrument_need">Kerakli qurulmalar</string>
+    <string name="select_lang">Til tanlang</string>
+    <string name="text_news">Keyingi versiyada kutilayotgan o\'zgarishlar</string>
+    <string name="learn_fly">Uchishni o\'rganish</string>
+    <string name="avia_model">Avia Model</string>
+    <string name="raketa_model">Raketa Model</string>
+    <string name="harbiy_model">Avia Model</string>
+    <string name="avia_models">Avia Modellar</string>
+    <string name="drone_shop">Airpilot Do\'konlari</string>
+    <string name="drone_website">Airpilot WebSite</string>
+    <string name="drone_stores">Airpilot Magazinlar</string>
+    <string name="web_1">Bizning vazifamiz sizga aqlli va xavfsiz dron uchuvchisi bo\'lishga yordam berishdir.</string>
+    <string name="web_2">ArduPilot - bu multikopterlar, an\'anaviy vertolyotlar, statsionar qanotli samolyotlar va roverlarni qo\'llab-quvvatlaydigan ochiq manbali avtopilot tizimi.</string>
+    <string name="web_3">Mening ismim Gulzar, men FPV uchish bilan shug\'ullanaman. Men anchadan beri sevimli mashg\'ulotim bilan shug\'ullanaman va men kvadrokopterlar va FPVda yasayman, ovqatlanaman va uxlayman.</string>
+    <string name="web_4">Siz parvoz mexanikasi va kvadrotorli uchuvchi robotlarning dizayni bilan tanishasiz va uch o\'lchamli muhitda ishlash uchun dinamik modellarni ishlab chiqish.</string>
+    <string name="web_5">Biz siz kabi ishlab chiqaruvchilarga dizaynlaringizni baham ko\'rishlari, bir-birlari bilan hamkorlik qilishlari va mahsulotingizni bozorga chiqarishni o\'rganishlari uchun joy taqdim etamiz.</string>
+    <string name="web_6">Biz uchishni yaxshi ko\'ramiz, biz dronlarni yaxshi ko\'ramiz.. . Bu dronlar, RC modellar, robotlar va boshqalar uchun ijtimoiy tarmoq.</string>
+    <string name="web_7">2010 yildan boshlab bir qator texnologiya va muhandislik omillari birlashdi - bularning barchasi iste\'molchilar, havaskorlar, fotograflar va boshqa mumkin bo\'lgan engil tijorat maqsadlarida foydalanish uchun arzonroq narxlarda deyarli cheksiz imkoniyatlarga va yanada qobiliyatli uchuvchi dronlarga olib keldi.</string>
+    <string name="stories_1">Oson uchadigan dronlar va aerofotosurat tizimlarida bozor yetakchisi sifatida DJI kvadrokopterlari iste\'molchi dron texnologiyasida standartga aylandi.</string>
+    <string name="stories_2">Parrot smartfonlar va planshetlar uchun iste\'mol mahsulotlarini, shuningdek, avtomobilsozlik va UAV biznesida yuqori texnologiyali echimlarni ishlab chiqadi, ishlab chiqadi va sotadi.</string>
+    <string name="stories_3">RcBazaar - Hindistonning eng katta va eng zo\'r sevimli mashg\'ulotlariga bag\'ishlangan super do\'koni Radio Control vertolyotlari, samolyotlar, reaktivlar, planerlar, balsa to\'plamlari, ehtiyot qismlar va aksessuarlarga bag\'ishlangan.</string>
+    <string name="stories_4">RC Mumbai - bu Mumbaydagi keyingi darajadagi sevimli mashg\'ulotlar do\'koni bo\'lib, u eng yuqori sifatli narsalarni eng arzon narxda taqdim etadi.</string>
+    <string name="stories_5">HobbyXyz.com - bu Dehlida joylashgan RC do\'koni bo\'lib, u sevimli mashg\'ulot samolyoti, qayiqlar, poezdlar va boshqa ko\'plab sevimli mashg\'ulotlariga ega.</string>
+    <string name="stories_6">Robokits India tez rivojlanayotgan tadqiqot, ishlab chiqish va o\'zining onlayn savdo jabhasi, do\'kon jabhasi va robot mahsulotlarini sotish tarqatish tarmog\'iga ega uy yig\'ishdir.</string>
+    <string name="stories_7">Pooja Electronics 1998 yilda, asosan, radioeshittirish uskunalari bilan shug\'ullangan.</string>
+    <string name="select_lang_btn">Tilni Tanlang</string>
+    <string name="jamoa_haqida">Jamoa haqida</string>
+    <string name="manager">Proyekt Manager</string>
+    <string name="android_dasturchi">Android Dasturchi</string>
+</resources>

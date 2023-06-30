@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Airpilot</string>
+    <string name="game_view_content_description" translatable="false">Game view</string>
+
+    <!-- English language -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="language">Application language</string>
+    <string name="news">Application news</string>
+    <string name="about">About the team</string>
+    <string name="phone">+998953401070</string>
+    <string name="virtual_drone">Virtual drone</string>
+    <string name="virtual_real">Virtual real</string>
+    <string name="real_drone">Real drone</string>
+    <string name="must_insturments">Must instruments</string>
+    <string name="drone_create">Drone making</string>
+    <string name="launches">Launches</string>
+    <string name="rocket_model">Rocket Model</string>
+    <string name="make_drone">Learn how to make a drone</string>
+    <string name="mility_drone">Drone resing race</string>
+    <string name="instruments">Necessary settings</string>
+    <string name="drone_creat_learn">Drone making</string>
+    <string name="ligth_theme">Night mode</string>
+    <string name="about_app">Application about</string>
+    <string name="about_our">About our</string>
+    <string name="version_1_0_0">Version: 1.0.0</string>
+    <string name="company_uz_creater">Company: Robotics Lab</string>
+    <string name="developer_email">Mail: roboticslab@gmail.com</string>
+    <string name="phone_number">Phone: +998 95 340 10 70</string>
+    <string name="app_news">Application news</string>
+    <string name="instrument_need">Necessary settings</string>
+    <string name="select_lang">Select a language</string>
+    <string name="text_news">Expected changes in the next version</string>
+    <string name="learn_fly">Learning to fly</string>
+    <string name="avia_model">Avia Model</string>
+    <string name="raketa_model">Rocket Model</string>
+    <string name="harbiy_model">Military Model</string>
+    <string name="avia_models">Avia Models</string>
+    <string name="drone_shop">Drone Stores</string>
+    <string name="drone_website">Drone WebSite</string>
+    <string name="drone_stores">Drone Stores</string>
+    <string name="web_1">Our Mission is yo to help You Be a Smart and safe Drone Pilot.</string>
+    <string name="web_2">ArduPilot is a open source autopilot system supporting multi-copters, traditional helicopters, fixed wing aircraft and rovers.</string>
+    <string name="web_3">My name is Gulzar, and I am obsessed with FPV flying. I\'ve been in the hobby for quite a while now, and I live, eat, and sleep quadcopters and FPV.</string>
+    <string name="web_4">You will gain introduction to the mechanics of flight and the design of quadrotor flying robots and will be able to develop dynamic models, derive controllers, and synthesize planners for operating in three dimensional environments.</string>
+    <string name="web_5">We provide a place for makers like you to share your designs, collaborate with one another, and learn how to take your product to market.</string>
+    <string name="web_6">We Love to Fly, We love Drones.. . This is the social Network for Drones, RC Models, Robots and much more.</string>
+    <string name="web_7">Starting in 2010 a number of technology and engineering factors came together - all leading to almost unlimited possibilities in lover cost and more capable flying drones for consumers, hobbyists, photographers and other possible light commercial uses.</string>
+    <string name="stories_1">As the market leader in easy-to-fly drones and aerial photography systems, DJI quadcopters have become the standart in consumer drone technology. </string>
+    <string name="stories_2">Parrot designs, developers and markets consumer products for smartphones and tablets as well as high  technology solution in Automotive and UAV business</string>
+    <string name="stories_3">RcBazaar is India\'s largest and coolest hobby super store dedicated to Radio Control helicopters, aeroplanes, jets, gliders, balsa kits, spares and accessories</string>
+    <string name="stories_4">RC Mumbai is a next level hobby shop in Mumbai which provides the highest quality items for the cheapest price possible.</string>
+    <string name="stories_5">HobbyXyz.com is a Delhi based RC store which deals in every hobby product like your hobby plane, boats, Trains and many more.</string>
+    <string name="stories_6">Robokits India is fast growing research, development and assemble house with its own online sales front, store front and sales distribution network for robotic products.</string>
+    <string name="stories_7">Pooja Electronics was started way back in 1998 mainly dealing into Broadcast Equipment.</string>
+    <string name="select_lang_btn">Select Language</string>
+    <string name="jamoa_haqida">About the team</string>
+    <string name="manager">Project Manager</string>
+    <string name="android_dasturchi">Android Developer</string>
+</resources>

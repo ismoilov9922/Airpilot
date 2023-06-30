@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="uz.roboticslab.droneline.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/realFragment"
+        android:name="uz.roboticslab.droneline.ui.virtual.real.RealFragment"
+        android:label="fragment_real"
+        tools:layout="@layout/fragment_real" />
+    <fragment
+        android:id="@+id/virtualFragment"
+        android:name="uz.roboticslab.droneline.ui.virtual.virtuals.VirtualFragment"
+        android:label="fragment_virtual"
+        tools:layout="@layout/fragment_virtual" />
+    <activity
+        android:id="@+id/splashActivity2"
+        android:name="uz.roboticslab.droneline.ui.splash.SplashActivity"
+        android:label="activity_splash"
+        tools:layout="@layout/activity_splash" />
+    <fragment
+        android:id="@+id/instrDroneFragment"
+        android:name="uz.roboticslab.droneline.ui.drone_learn.instrument.InstrDroneFragment"
+        android:label="fragment_instr_drone"
+        tools:layout="@layout/fragment_instr_drone" />
+    <fragment
+        android:id="@+id/learnDroneFragment"
+        android:name="uz.roboticslab.droneline.ui.drone_learn.create_drone.LearnDroneFragment"
+        android:label="fragment_learn_dron"
+        tools:layout="@layout/fragment_learn_dron" />
+    <fragment
+        android:id="@+id/aviaModelFragment"
+        android:name="uz.roboticslab.droneline.ui.learn_fly.aviamodel.AviaModelFragment"
+        android:label="fragment_avia_model"
+        tools:layout="@layout/fragment_avia_model" />
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="uz.roboticslab.droneline.ui.language.LanguageFragment"
+        android:label="fragment_language"
+        tools:layout="@layout/fragment_language" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="uz.roboticslab.droneline.ui.setting.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="uz.roboticslab.droneline.ui.news.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/wifiFragment"
+        android:name="uz.roboticslab.droneline.ui.fly_drone.WifiFragment"
+        android:label="fragment_wifi"
+        tools:layout="@layout/fragment_wifi" />
+    <fragment
+        android:id="@+id/droneStoresFragment"
+        android:name="uz.roboticslab.droneline.ui.drone_stores.DroneStoresFragment"
+        android:label="fragment_drone_stores"
+        tools:layout="@layout/fragment_drone_stores" />
+    <fragment
+        android:id="@+id/droneWebFragment"
+        android:name="uz.roboticslab.droneline.ui.drone_website.DroneWebFragment"
+        android:label="fragment_drone_web"
+        tools:layout="@layout/fragment_drone_web" />
+    <activity
+        android:id="@+id/gameActivity"
+        android:name="uz.roboticslab.droneline.ui.drone_learn.GameActivity"
+        android:label="activity_game"
+        tools:layout="@layout/activity_game" />
+    <fragment
+        android:id="@+id/teamFragment"
+        android:name="uz.roboticslab.droneline.ui.team.TeamFragment"
+        android:label="fragment_team"
+        tools:layout="@layout/fragment_team" />
+    <activity
+        android:id="@+id/videoActivity"
+        android:name="uz.roboticslab.droneline.ui.youtube_video.VideoActivity"
+        android:label="activity_video"
+        tools:layout="@layout/activity_video" />
+</navigation>
